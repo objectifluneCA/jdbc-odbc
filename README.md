@@ -1,2 +1,2 @@
 # jdbc-odbc
-JdbcOdbc DLL for Java 7.0.79+15
+A public location to download the JdbcOdbc DLL for Java 1.7.0.79+15
